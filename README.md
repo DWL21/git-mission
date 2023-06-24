@@ -1,7 +1,7 @@
 # git-misson
 ### 미션0-codeanywhere 컨테이너 생성
-	* codeanywhere.com 회원가입 후 new container -> python 선택하여 새 컨테이너를 만든다.
-	* new ternimal을 눌러 새 터미널 창을 열 수 있다. codeanywhere에서 모든 프로젝트는 workspace 디렉터리 안에서 관리해야 한다.
+  * codeanywhere.com 회원가입 후 new container -> python 선택하여 새 컨테이너를 만든다.
+  * new ternimal을 눌러 새 터미널 창을 열 수 있다. codeanywhere에서 모든 프로젝트는 workspace 디렉터리 안에서 관리해야 한다.
 
 ### 미션1-혼자 github 사용하기
 1. github에서 git-misson-닉네임 repository를 만든다.
@@ -74,5 +74,5 @@ ll: 현재 디렉터리 파일과 폴더 탐색
 cd <디렉터리명>: 해당 디렉터리로 이동
 cd ..: 상위 디렉터리로 이동
 ```
-	* tip: 파일명, 디렉터리명은 일부만 입력하고 TAB 두번 누르면 자동완성이 된다.
-	* 이외에는 ‘리눅스 터미널 명령어 사용법’을 구글에 검색해 방법을 찾는다.
+  * tip: 파일명, 디렉터리명은 일부만 입력하고 TAB 두번 누르면 자동완성이 된다.
+  * 이외에는 ‘리눅스 터미널 명령어 사용법’을 구글에 검색해 방법을 찾는다.
